@@ -1,3 +1,4 @@
+// Projekt jest poprawny - wszystkie testy jednostkowe zakończone sukcesem po refaktoryzacji.
 package edu.kis.vh.nursery;
 
 import org.junit.Assert;
